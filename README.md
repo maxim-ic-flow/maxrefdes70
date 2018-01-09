@@ -30,9 +30,11 @@ J1 can be used to attach a debugger to the MAXREFDES70. A custom adapter or jump
 ![alt text](https://github.com/maxim-ic-flow/maxrefdes70/blob/master/docs/readme_images/debugger_image.jpg "Typical debugger setup")
 
 The pinout for J1 is:
+
 ![alt text](https://github.com/maxim-ic-flow/maxrefdes70/blob/master/docs/readme_images/board_debug_pinout.jpg "Typical debugger setup")
 
 The pinout for a standard 20-pin ARM debugger is:
+
 ![alt text](https://github.com/maxim-ic-flow/maxrefdes70/blob/master/docs/readme_images/20pin.png "20-PIN JTAG/SW Interface")
 
 | ARM 20-PIN CONNECTOR | REFDES70 6-PIN CONNECTOR |
