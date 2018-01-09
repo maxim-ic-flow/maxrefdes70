@@ -37,6 +37,8 @@ The pinout for a standard 20-pin ARM debugger is:
 
 ![alt text](https://github.com/maxim-ic-flow/maxrefdes70/blob/master/docs/readme_images/20pin.png "20-PIN JTAG/SW Interface")
 
+The following table describes how to connect the REFDES70 to a standard 20-pin ARM jtag/swd debugger.
+
 | ARM 20-PIN CONNECTOR | REFDES70 6-PIN CONNECTOR |
 |----------------------|--------------------------|
 | VCC(1)               | VBAT(J1-6)               |
